@@ -508,14 +508,14 @@ transform: scaleX(1);
 }
 #project2{
     margin-left: 120px;
-    background-image: url('./images/Project2.png');
+    background-image: url('./images/weather-app.png');
 }
 #project3{
-    background-image: url('./images/Project3.png');
+    background-image: url('./images/github-finder.png');
 }
 #project4{
     margin-left: 120px;
-    background-image: url('./images/Project4.png');
+    background-image: url('./images/tic-tac-toe.png');
 }
 @media screen and (max-width: 500px){
     .project-section{
